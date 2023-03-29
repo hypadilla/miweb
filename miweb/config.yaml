@@ -1,0 +1,8 @@
+server:
+  port: 8080
+  host: localhost
+
+database:
+  driver: mysql
+  url: localhost:3306
+  dns: root:Padillab123@tcp(localhost:3306)/directorio_telefonico?charset=utf8mb4&parseTime=True&loc=Local
